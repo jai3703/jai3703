@@ -1,5 +1,8 @@
+
+
+
 - 👋 Hi, I’m Jai Kumar Pandey
-- 👀 I’m interested in Machine Learning, Supply Chain 
+- 👀 I’m interested in Machine Learning, NLL and Supply Chain 
 - 🌱 I’m currently learning Advanced Machine Learning Teachniques
 
 - 📫 Reach me on jaikumar3703.jp@gmail.com
